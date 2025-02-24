@@ -1,11 +1,11 @@
 # Analysis of Campaign Performance Using SQL
 
 ## Table of Contents
--[Introduction](#Objectives)
+-[Introduction](#Introduction)
 -[Objectives](#Objectives)
 -[Tools](#Tools)
 -[Data Source](#Data-Source)
--[Data Understanding](#Data Understanding)
+-[Data Understanding](#Data-Understanding)
 -[Analysis & Query Writing](#Analysis-&-Query-Writing)
 -[Conclusion](#Conclusion)
 
