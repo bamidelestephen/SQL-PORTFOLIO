@@ -32,7 +32,7 @@ Data Source:
 
 ## Data Understanding:
 ###### Firstly I had to create a table in PostgreSQL called campaigndata to house my data and define the data types for the columns.
-[create table](https://github.com/bamidelestephen/SQL-PORTFOLIO/blob/main/ASSETS/images/Create%20table.PNG)
+![create table](https://github.com/bamidelestephen/SQL-PORTFOLIO/blob/main/ASSETS/images/Create%20table.PNG)
 
  Then I imported the data in SQL.
  After that, I had to review and inspect the dataset structure to understand available fields and data types and ensure that the data types (e.g., numeric, text, date) are appropriate for analysis.
